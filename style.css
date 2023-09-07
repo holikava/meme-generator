@@ -16,6 +16,23 @@ body {
     color: white;
 }
 
+p {
+    font-size: 20px;
+    margin-bottom: 1em;
+}
+
+h3 {
+    color: yellow;
+    margin-bottom: 1em;
+}
+
+img {
+    display: block;
+    max-width: 400px;
+    width: 80%;
+    margin: 0 auto;
+}
+
 
 main {
     display: flex;
